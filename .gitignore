@@ -99,3 +99,11 @@ ENV/
 
 # mypy
 .mypy_cache/
+
+# Binder environment
+.bash_logout
+.bashrc
+.ipython/
+.local/
+.profile
+.wget-hsts
