@@ -6,6 +6,8 @@ onbind
 
 Online development environment using Binder and Jupyter notebooks. 
 
+**This Branch is for miscellaneous Python development and brainstorming.**
+
 
 What's this about?
 ------------------
