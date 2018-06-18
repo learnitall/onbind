@@ -6,6 +6,9 @@ onbind
 
 Online development environment using Binder and Jupyter notebooks. 
 
+**This branch is for working through the Udemy course `Python for Data Science
+and Machine Learning Bootcamp <https://www.udemy.com/python-for-data-science-and-machine-learning-bootcamp/learn/v4/overview>`_.
+
 
 What's this about?
 ------------------
