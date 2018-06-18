@@ -107,3 +107,7 @@ ENV/
 .local/
 .profile
 .wget-hsts
+
+# OSX
+*.DS_STORE
+
