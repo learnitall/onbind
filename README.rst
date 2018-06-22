@@ -2,7 +2,7 @@ onbind
 ======
 
 .. image:: https://mybinder.org/badge.svg 
-   :target: https://mybinder.org/v2/gh/learnitall/onbind/master?urlpath=lab
+   :target: https://mybinder.org/v2/gh/learnitall/onbind/udemy-dsml-bootcamp?urlpath=lab
 
 Online development environment using Binder and Jupyter notebooks. 
 
