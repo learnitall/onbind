@@ -1,8 +1,8 @@
+beautifulsoup4
+html5lib
+lxml
 numpy
+openpyxl
 pandas
 sqlalchemy
-lxml
-html5lib
-beautifulsoup4
 xlrd
-openpyxl
